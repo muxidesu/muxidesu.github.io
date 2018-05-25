@@ -1,0 +1,23 @@
+body{
+  background-color:rgb(104, 205, 213);
+  text-align: center;
+  margin: 0;
+}
+p{
+  color:white;
+  margin:1%;
+}
+.rule1{
+  margin:1.25rem 1.875rem;
+  text-align: left;
+}
+.rule2{
+  float: left;
+  padding-top:20%;
+  padding-left:20%;
+}
+.rule3{
+  float:right;
+  padding-top:20%;
+  padding-right:20%;
+}

@@ -1,0 +1,38 @@
+body{
+  margin:0;
+  background-color:rgb(104, 205, 213);
+  text-align: center;
+  padding:10% auto;
+}
+.back{
+  text-align:left;
+}
+button{
+  border: rgb(104,205,213);
+  background-color:rgb(104,205,213);
+  text-align:left;
+}
+p{
+  color:#ffffff;
+}
+.display{
+  margin:0 10%;
+  display:inline-block;
+}
+.rule{
+  padding:10% 10%;
+}
+.rule2{
+  padding:0;
+  margin:0;
+}
+.intro{
+  text-align:left;
+  padding:10% 15%;
+}
+img{
+  width:70%;
+}
+#logo{
+  width:40%;
+}
